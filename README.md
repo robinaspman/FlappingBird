@@ -1,4 +1,3 @@
 A Flapping Bird app.
 
-https://user-images.githubusercontent.com/48618243/198835728-34d25f95-81e8-4e74-995d-a7c6a482b175.mp4
-
+![FlappingBird](https://user-images.githubusercontent.com/48618243/198836399-52cdeab6-5327-49a0-9cc3-848716785f3d.gif)
